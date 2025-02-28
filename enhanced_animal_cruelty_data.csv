@@ -1,0 +1,501 @@
+City,Year,Number of Cases,Type of Cruelty,Legal Action Taken,Rescue Success (%),Animal Type,Time of Incident,Witness Reported?,Police Complaint Filed?,Medical Help Given?,Suspect Identified?,NGO Involved,Location Type,Weather Condition,Severity Level
+Lucknow,2022,873,Dog Fighting,No,73,Monkey,Morning,No,No,Yes,No,Blue Cross,Rural,Rainy,Medium
+Pune,2019,662,Abandonment,Yes,57,Cat,Night,Yes,Yes,No,No,Local Shelter,Urban,Rainy,Low
+Chennai,2023,19,Experimentation,Yes,31,Dog,Morning,No,Yes,Yes,No,PETA,Rural,Sunny,High
+Pune,2019,458,Abandonment,Yes,58,Elephant,Morning,No,Yes,Yes,Yes,No NGO Involved,Urban,Rainy,High
+Bangalore,2021,647,Beating,Yes,44,Elephant,Night,No,Yes,Yes,Yes,No NGO Involved,Urban,Sunny,Low
+Pune,2019,675,Poisoning,No,60,Horse,Afternoon,Yes,Yes,Yes,No,Blue Cross,Urban,Rainy,High
+Hyderabad,2022,16,Neglect,No,14,Dog,Morning,No,Yes,Yes,No,Wildlife SOS,Rural,Sunny,Low
+Pune,2020,140,Beating,No,42,Dog,Night,Yes,Yes,Yes,No,PETA,Rural,Rainy,Medium
+Kolkata,2022,287,Neglect,No,86,Dog,Evening,Yes,Yes,No,Yes,Blue Cross,Urban,Cold,Low
+Mumbai,2020,911,Dog Fighting,No,90,Buffalo,Morning,Yes,No,No,Yes,Blue Cross,Urban,Sunny,Medium
+Hyderabad,2022,705,Illegal Trade,No,79,Buffalo,Morning,No,No,No,No,Blue Cross,Urban,Cold,High
+Pune,2023,238,Abandonment,No,31,Cat,Evening,No,Yes,No,No,No NGO Involved,Rural,Rainy,Medium
+Pune,2023,756,Poisoning,Yes,59,Snake,Afternoon,No,Yes,Yes,No,Blue Cross,Rural,Cold,High
+Bangalore,2021,593,Dog Fighting,Yes,48,Cat,Night,Yes,Yes,No,Yes,PETA,Rural,Sunny,Medium
+Pune,2019,920,Beating,No,38,Monkey,Night,No,Yes,Yes,Yes,Local Shelter,Urban,Rainy,High
+Jaipur,2019,872,Starvation,No,51,Elephant,Night,Yes,Yes,Yes,No,Blue Cross,Urban,Rainy,Medium
+Jaipur,2019,818,Dog Fighting,Yes,18,Cow,Afternoon,No,Yes,Yes,Yes,PETA,Urban,Cold,Medium
+Jaipur,2020,700,Starvation,No,23,Buffalo,Evening,Yes,Yes,No,Yes,No NGO Involved,Urban,Sunny,Medium
+Lucknow,2022,923,Neglect,No,87,Dog,Afternoon,Yes,No,Yes,No,Wildlife SOS,Urban,Rainy,Low
+Mumbai,2021,849,Dog Fighting,No,54,Snake,Night,No,Yes,No,No,Local Shelter,Rural,Cold,Medium
+Ahmedabad,2023,58,Experimentation,Yes,13,Monkey,Night,No,Yes,Yes,Yes,Blue Cross,Urban,Rainy,Medium
+Mumbai,2020,779,Experimentation,Yes,77,Snake,Morning,Yes,No,No,Yes,Blue Cross,Urban,Cold,Low
+Bangalore,2021,578,Illegal Trade,Yes,83,Dog,Night,Yes,No,No,Yes,Wildlife SOS,Rural,Rainy,High
+Hyderabad,2022,638,Abandonment,Yes,43,Goat,Night,Yes,Yes,Yes,Yes,No NGO Involved,Urban,Sunny,Medium
+Delhi,2021,92,Starvation,Yes,73,Buffalo,Morning,Yes,Yes,No,No,PETA,Rural,Cold,High
+Chennai,2022,182,Experimentation,Yes,65,Snake,Morning,No,Yes,No,No,Local Shelter,Rural,Rainy,Medium
+Chennai,2021,595,Starvation,Yes,85,Cow,Night,No,Yes,No,Yes,No NGO Involved,Urban,Cold,High
+Ahmedabad,2023,903,Illegal Trade,Yes,31,Elephant,Afternoon,No,Yes,No,No,Local Shelter,Urban,Cold,Low
+Bangalore,2019,133,Dog Fighting,Yes,51,Goat,Night,No,Yes,Yes,Yes,Blue Cross,Rural,Cold,Low
+Pune,2022,656,Neglect,No,69,Monkey,Evening,Yes,Yes,No,No,No NGO Involved,Rural,Rainy,Medium
+Ahmedabad,2022,45,Poisoning,No,78,Buffalo,Morning,No,No,Yes,No,PETA,Urban,Rainy,High
+Bangalore,2022,586,Neglect,Yes,60,Dog,Night,No,No,No,Yes,Wildlife SOS,Rural,Cold,High
+Hyderabad,2021,762,Dog Fighting,No,48,Snake,Evening,No,Yes,No,No,Wildlife SOS,Urban,Rainy,High
+Jaipur,2019,170,Beating,No,36,Dog,Afternoon,No,No,Yes,No,Local Shelter,Rural,Cold,High
+Delhi,2020,67,Experimentation,No,71,Cat,Evening,No,Yes,Yes,Yes,Wildlife SOS,Urban,Sunny,Medium
+Kolkata,2022,228,Illegal Trade,Yes,34,Dog,Evening,Yes,No,Yes,Yes,Local Shelter,Urban,Rainy,Medium
+Ahmedabad,2023,35,Abandonment,No,53,Cat,Morning,Yes,Yes,No,No,Wildlife SOS,Rural,Cold,Low
+Lucknow,2021,731,Poisoning,Yes,10,Snake,Night,No,No,Yes,No,No NGO Involved,Rural,Rainy,Medium
+Delhi,2023,141,Abandonment,Yes,61,Buffalo,Afternoon,No,Yes,No,Yes,No NGO Involved,Urban,Cold,Low
+Bangalore,2022,241,Experimentation,Yes,20,Snake,Afternoon,No,Yes,No,No,Blue Cross,Urban,Sunny,High
+Pune,2021,890,Abandonment,No,60,Goat,Morning,No,Yes,Yes,No,Blue Cross,Rural,Rainy,Medium
+Kolkata,2021,548,Poisoning,No,85,Cat,Morning,Yes,No,Yes,Yes,Blue Cross,Rural,Sunny,Low
+Jaipur,2020,639,Illegal Trade,No,20,Snake,Evening,Yes,No,Yes,No,No NGO Involved,Rural,Rainy,High
+Pune,2022,304,Experimentation,Yes,29,Horse,Afternoon,No,Yes,Yes,Yes,Wildlife SOS,Rural,Cold,Low
+Ahmedabad,2020,586,Beating,No,83,Monkey,Afternoon,Yes,No,Yes,No,Blue Cross,Urban,Cold,High
+Ahmedabad,2020,619,Poisoning,Yes,42,Snake,Morning,No,Yes,Yes,Yes,Local Shelter,Rural,Sunny,Low
+Hyderabad,2023,748,Poisoning,Yes,70,Horse,Morning,No,No,Yes,No,Wildlife SOS,Urban,Cold,High
+Lucknow,2023,880,Neglect,Yes,70,Goat,Morning,No,No,No,No,Wildlife SOS,Urban,Cold,Low
+Hyderabad,2019,996,Illegal Trade,Yes,18,Snake,Afternoon,No,No,No,No,Local Shelter,Rural,Sunny,Medium
+Pune,2021,256,Poisoning,No,62,Snake,Night,Yes,Yes,No,No,Blue Cross,Urban,Cold,Low
+Kolkata,2020,907,Beating,No,12,Monkey,Evening,Yes,Yes,No,No,No NGO Involved,Urban,Cold,High
+Lucknow,2020,231,Neglect,No,19,Goat,Morning,Yes,No,Yes,Yes,Blue Cross,Urban,Rainy,Low
+Chennai,2020,888,Beating,Yes,23,Cat,Evening,No,No,Yes,Yes,PETA,Urban,Rainy,Medium
+Delhi,2022,961,Poisoning,No,88,Cow,Evening,Yes,No,Yes,No,Wildlife SOS,Urban,Sunny,High
+Pune,2023,90,Starvation,Yes,66,Goat,Afternoon,Yes,Yes,Yes,Yes,Wildlife SOS,Rural,Rainy,Low
+Lucknow,2022,927,Abandonment,No,85,Buffalo,Afternoon,No,Yes,Yes,Yes,No NGO Involved,Rural,Rainy,Low
+Lucknow,2023,375,Abandonment,Yes,16,Elephant,Afternoon,No,No,No,No,Blue Cross,Rural,Sunny,Medium
+Lucknow,2023,217,Dog Fighting,Yes,48,Monkey,Night,No,Yes,No,No,Blue Cross,Rural,Rainy,Medium
+Pune,2020,731,Abandonment,No,85,Buffalo,Afternoon,No,Yes,No,No,Wildlife SOS,Urban,Cold,Low
+Jaipur,2021,894,Dog Fighting,Yes,56,Snake,Night,Yes,Yes,No,Yes,PETA,Rural,Sunny,High
+Jaipur,2023,77,Illegal Trade,No,17,Dog,Evening,Yes,Yes,Yes,Yes,Blue Cross,Rural,Rainy,Low
+Delhi,2021,123,Poisoning,No,43,Cat,Evening,No,Yes,No,No,Wildlife SOS,Rural,Cold,Low
+Bangalore,2021,49,Experimentation,No,51,Bird,Morning,No,No,No,Yes,No NGO Involved,Urban,Sunny,High
+Mumbai,2020,819,Neglect,Yes,72,Goat,Evening,Yes,Yes,No,Yes,Blue Cross,Rural,Rainy,Medium
+Kolkata,2023,323,Dog Fighting,Yes,34,Buffalo,Afternoon,No,No,No,No,PETA,Rural,Rainy,High
+Pune,2020,856,Abandonment,No,89,Horse,Night,No,Yes,Yes,Yes,Blue Cross,Urban,Rainy,Medium
+Ahmedabad,2023,930,Starvation,Yes,46,Cat,Morning,Yes,No,No,No,PETA,Rural,Sunny,High
+Ahmedabad,2023,349,Experimentation,Yes,42,Goat,Morning,No,Yes,Yes,No,Local Shelter,Urban,Rainy,High
+Delhi,2023,975,Experimentation,No,19,Dog,Evening,No,No,Yes,No,Local Shelter,Rural,Rainy,Medium
+Chennai,2019,322,Starvation,No,60,Buffalo,Afternoon,Yes,No,Yes,No,No NGO Involved,Urban,Cold,Medium
+Hyderabad,2023,771,Abandonment,No,25,Monkey,Afternoon,Yes,No,No,Yes,Local Shelter,Urban,Sunny,Medium
+Chennai,2023,88,Neglect,No,12,Cow,Morning,Yes,Yes,Yes,Yes,Blue Cross,Rural,Rainy,Medium
+Jaipur,2021,94,Starvation,Yes,58,Elephant,Morning,No,No,No,Yes,No NGO Involved,Rural,Rainy,High
+Mumbai,2020,55,Starvation,No,54,Buffalo,Afternoon,Yes,Yes,Yes,No,Wildlife SOS,Rural,Rainy,Low
+Delhi,2021,506,Beating,Yes,47,Horse,Night,No,Yes,Yes,Yes,No NGO Involved,Rural,Sunny,Low
+Ahmedabad,2019,803,Neglect,Yes,51,Buffalo,Afternoon,No,No,No,Yes,No NGO Involved,Urban,Cold,High
+Chennai,2023,182,Abandonment,No,19,Bird,Afternoon,No,No,Yes,Yes,Wildlife SOS,Urban,Cold,High
+Jaipur,2023,418,Abandonment,Yes,67,Monkey,Night,Yes,Yes,No,No,Blue Cross,Urban,Rainy,High
+Pune,2021,694,Neglect,No,52,Dog,Morning,No,No,Yes,Yes,Wildlife SOS,Rural,Sunny,Low
+Ahmedabad,2022,292,Poisoning,No,79,Dog,Night,Yes,No,No,No,Local Shelter,Urban,Rainy,High
+Ahmedabad,2019,396,Illegal Trade,Yes,85,Monkey,Afternoon,Yes,No,Yes,Yes,Blue Cross,Urban,Rainy,High
+Ahmedabad,2021,536,Poisoning,Yes,62,Horse,Afternoon,Yes,No,No,Yes,No NGO Involved,Urban,Cold,Medium
+Hyderabad,2021,411,Illegal Trade,Yes,40,Monkey,Night,No,Yes,Yes,No,PETA,Rural,Sunny,Medium
+Pune,2021,721,Experimentation,Yes,38,Monkey,Afternoon,No,Yes,Yes,No,No NGO Involved,Urban,Cold,Low
+Lucknow,2019,373,Illegal Trade,Yes,62,Horse,Night,No,Yes,Yes,Yes,Blue Cross,Urban,Rainy,High
+Jaipur,2022,688,Dog Fighting,No,48,Horse,Afternoon,Yes,No,Yes,Yes,No NGO Involved,Urban,Rainy,High
+Pune,2020,466,Dog Fighting,No,41,Snake,Night,Yes,Yes,Yes,No,PETA,Urban,Rainy,Medium
+Mumbai,2023,803,Poisoning,Yes,69,Bird,Afternoon,Yes,Yes,No,No,Wildlife SOS,Urban,Cold,High
+Hyderabad,2020,814,Experimentation,No,66,Monkey,Evening,No,Yes,No,No,Wildlife SOS,Rural,Sunny,Low
+Hyderabad,2022,419,Abandonment,No,20,Buffalo,Morning,No,Yes,Yes,No,Blue Cross,Rural,Sunny,Medium
+Jaipur,2023,727,Abandonment,No,40,Horse,Evening,No,No,No,Yes,Blue Cross,Urban,Cold,Medium
+Ahmedabad,2019,181,Beating,Yes,55,Buffalo,Morning,Yes,No,Yes,Yes,PETA,Rural,Rainy,Low
+Bangalore,2023,874,Neglect,Yes,25,Monkey,Evening,No,Yes,No,No,PETA,Rural,Sunny,Low
+Delhi,2019,353,Poisoning,No,78,Horse,Afternoon,No,Yes,No,Yes,Local Shelter,Urban,Sunny,Medium
+Mumbai,2023,352,Poisoning,Yes,83,Cow,Evening,Yes,No,Yes,No,PETA,Urban,Rainy,Low
+Ahmedabad,2020,59,Starvation,Yes,73,Monkey,Night,Yes,Yes,No,No,Local Shelter,Urban,Sunny,Medium
+Hyderabad,2023,800,Beating,Yes,78,Horse,Night,No,No,No,No,PETA,Urban,Cold,High
+Pune,2020,152,Beating,No,20,Elephant,Evening,No,No,Yes,No,Wildlife SOS,Rural,Rainy,Low
+Pune,2019,209,Neglect,No,69,Goat,Afternoon,Yes,No,Yes,Yes,Local Shelter,Rural,Cold,Low
+Hyderabad,2022,278,Beating,Yes,42,Snake,Evening,Yes,Yes,Yes,Yes,Local Shelter,Rural,Cold,Low
+Pune,2020,850,Starvation,No,59,Snake,Morning,Yes,No,Yes,No,No NGO Involved,Urban,Sunny,Low
+Bangalore,2021,809,Illegal Trade,Yes,27,Cow,Afternoon,No,Yes,Yes,No,Wildlife SOS,Urban,Sunny,Low
+Pune,2023,149,Experimentation,No,88,Horse,Evening,No,Yes,Yes,No,Blue Cross,Urban,Cold,High
+Pune,2019,331,Neglect,Yes,66,Dog,Night,No,Yes,Yes,Yes,PETA,Rural,Rainy,High
+Bangalore,2020,981,Experimentation,Yes,36,Goat,Evening,No,Yes,Yes,No,Wildlife SOS,Rural,Cold,Low
+Delhi,2019,317,Beating,Yes,90,Elephant,Evening,Yes,Yes,No,Yes,No NGO Involved,Urban,Rainy,High
+Ahmedabad,2023,201,Illegal Trade,No,32,Monkey,Evening,Yes,No,No,No,Local Shelter,Urban,Sunny,Low
+Kolkata,2021,644,Illegal Trade,No,66,Dog,Morning,No,No,No,No,Blue Cross,Rural,Rainy,Medium
+Hyderabad,2021,542,Beating,Yes,33,Dog,Afternoon,Yes,Yes,Yes,Yes,No NGO Involved,Rural,Sunny,Medium
+Hyderabad,2021,524,Neglect,Yes,36,Bird,Night,Yes,Yes,Yes,Yes,Wildlife SOS,Urban,Cold,High
+Delhi,2021,339,Illegal Trade,Yes,42,Bird,Morning,No,No,No,Yes,Blue Cross,Urban,Cold,High
+Chennai,2021,599,Neglect,No,39,Elephant,Evening,No,Yes,No,No,Local Shelter,Rural,Cold,Low
+Kolkata,2022,792,Illegal Trade,No,71,Bird,Night,No,No,No,No,No NGO Involved,Rural,Cold,High
+Pune,2023,647,Beating,Yes,23,Snake,Morning,No,Yes,No,No,Blue Cross,Urban,Cold,Medium
+Pune,2022,657,Illegal Trade,Yes,60,Dog,Night,No,Yes,Yes,No,Wildlife SOS,Urban,Cold,High
+Kolkata,2022,587,Beating,No,71,Cow,Afternoon,Yes,No,Yes,Yes,PETA,Urban,Sunny,Low
+Chennai,2023,131,Neglect,Yes,17,Snake,Afternoon,No,No,Yes,No,Wildlife SOS,Rural,Sunny,Low
+Jaipur,2019,875,Starvation,No,47,Bird,Night,Yes,No,No,No,PETA,Urban,Sunny,High
+Kolkata,2023,416,Poisoning,No,76,Cow,Afternoon,Yes,Yes,No,Yes,Wildlife SOS,Urban,Sunny,Low
+Ahmedabad,2023,173,Beating,No,41,Bird,Afternoon,No,Yes,No,No,Blue Cross,Urban,Rainy,Medium
+Mumbai,2019,131,Starvation,Yes,76,Snake,Morning,Yes,No,Yes,Yes,No NGO Involved,Urban,Sunny,High
+Chennai,2019,682,Starvation,Yes,49,Horse,Night,No,Yes,No,No,Blue Cross,Rural,Rainy,Medium
+Mumbai,2021,629,Illegal Trade,No,50,Snake,Afternoon,Yes,Yes,No,No,Local Shelter,Rural,Cold,Low
+Hyderabad,2022,687,Poisoning,No,31,Elephant,Night,Yes,Yes,No,No,Blue Cross,Urban,Cold,Low
+Lucknow,2020,245,Dog Fighting,No,72,Cow,Night,No,Yes,No,No,Wildlife SOS,Rural,Rainy,High
+Hyderabad,2023,709,Dog Fighting,No,10,Horse,Afternoon,No,Yes,No,Yes,Blue Cross,Rural,Sunny,Medium
+Chennai,2021,871,Poisoning,No,16,Snake,Afternoon,No,Yes,No,Yes,PETA,Urban,Cold,Low
+Jaipur,2021,602,Dog Fighting,No,41,Cat,Evening,No,Yes,No,No,PETA,Rural,Rainy,Medium
+Hyderabad,2023,464,Experimentation,No,23,Elephant,Evening,Yes,Yes,Yes,No,PETA,Urban,Sunny,Medium
+Jaipur,2019,414,Dog Fighting,No,71,Horse,Afternoon,Yes,No,Yes,No,No NGO Involved,Urban,Rainy,Low
+Bangalore,2023,325,Dog Fighting,No,62,Buffalo,Evening,No,Yes,Yes,No,Wildlife SOS,Urban,Rainy,Medium
+Mumbai,2023,141,Abandonment,No,22,Cow,Night,Yes,Yes,No,No,Local Shelter,Rural,Rainy,High
+Ahmedabad,2019,806,Abandonment,No,22,Monkey,Evening,No,No,No,Yes,Local Shelter,Rural,Rainy,High
+Chennai,2022,960,Dog Fighting,No,31,Buffalo,Afternoon,Yes,Yes,Yes,Yes,No NGO Involved,Urban,Sunny,High
+Lucknow,2019,804,Neglect,Yes,88,Goat,Morning,No,No,No,Yes,Local Shelter,Rural,Rainy,Low
+Hyderabad,2023,530,Poisoning,No,15,Cow,Night,No,No,No,Yes,PETA,Rural,Sunny,High
+Ahmedabad,2023,17,Abandonment,Yes,54,Buffalo,Evening,Yes,Yes,Yes,Yes,No NGO Involved,Urban,Rainy,Low
+Ahmedabad,2020,175,Beating,No,10,Bird,Afternoon,Yes,Yes,No,No,PETA,Urban,Rainy,Medium
+Chennai,2023,675,Abandonment,No,66,Cow,Evening,No,No,Yes,Yes,Local Shelter,Rural,Rainy,Low
+Jaipur,2019,627,Dog Fighting,Yes,16,Dog,Evening,No,Yes,Yes,No,Blue Cross,Urban,Rainy,High
+Lucknow,2023,918,Poisoning,Yes,23,Cat,Evening,Yes,No,No,No,Blue Cross,Urban,Sunny,Low
+Hyderabad,2022,676,Starvation,No,80,Horse,Evening,Yes,Yes,Yes,No,Local Shelter,Urban,Cold,High
+Kolkata,2019,136,Beating,Yes,28,Horse,Morning,No,No,No,Yes,PETA,Urban,Sunny,Medium
+Mumbai,2020,928,Experimentation,No,37,Bird,Afternoon,No,Yes,Yes,Yes,PETA,Urban,Cold,Low
+Kolkata,2023,480,Neglect,No,30,Horse,Afternoon,Yes,Yes,No,No,Wildlife SOS,Rural,Rainy,High
+Pune,2019,35,Dog Fighting,Yes,77,Snake,Night,Yes,Yes,No,Yes,PETA,Urban,Cold,Medium
+Mumbai,2019,259,Illegal Trade,Yes,57,Elephant,Morning,No,No,No,Yes,PETA,Urban,Rainy,Low
+Mumbai,2020,855,Neglect,No,70,Elephant,Afternoon,Yes,Yes,Yes,Yes,Local Shelter,Rural,Sunny,High
+Ahmedabad,2019,131,Poisoning,Yes,50,Monkey,Night,Yes,No,No,No,No NGO Involved,Urban,Cold,High
+Jaipur,2019,379,Illegal Trade,Yes,50,Snake,Afternoon,Yes,Yes,No,No,Local Shelter,Urban,Sunny,Low
+Lucknow,2023,818,Neglect,No,25,Monkey,Afternoon,Yes,No,No,No,PETA,Rural,Rainy,High
+Hyderabad,2022,938,Beating,No,85,Buffalo,Afternoon,No,No,Yes,Yes,PETA,Urban,Sunny,Medium
+Lucknow,2019,128,Dog Fighting,No,56,Elephant,Night,Yes,Yes,Yes,Yes,Local Shelter,Urban,Rainy,High
+Jaipur,2022,948,Abandonment,No,32,Horse,Evening,No,No,No,Yes,Wildlife SOS,Rural,Rainy,Low
+Kolkata,2023,660,Abandonment,No,78,Dog,Morning,No,Yes,No,No,Local Shelter,Urban,Cold,High
+Hyderabad,2023,596,Beating,No,11,Elephant,Night,No,No,Yes,No,Wildlife SOS,Rural,Cold,Low
+Kolkata,2022,576,Abandonment,Yes,87,Buffalo,Morning,Yes,Yes,No,Yes,Local Shelter,Rural,Sunny,High
+Pune,2019,542,Poisoning,No,17,Snake,Morning,Yes,No,No,Yes,Local Shelter,Rural,Sunny,Low
+Pune,2020,695,Experimentation,No,55,Cow,Morning,No,No,Yes,Yes,Blue Cross,Urban,Cold,Medium
+Chennai,2022,744,Beating,Yes,33,Horse,Afternoon,Yes,No,No,No,Wildlife SOS,Urban,Rainy,Low
+Delhi,2023,984,Abandonment,Yes,49,Horse,Afternoon,Yes,Yes,No,No,No NGO Involved,Rural,Cold,Medium
+Jaipur,2021,570,Starvation,No,85,Snake,Afternoon,No,Yes,Yes,No,No NGO Involved,Rural,Sunny,High
+Delhi,2023,775,Starvation,No,62,Cow,Afternoon,No,Yes,No,No,Blue Cross,Rural,Sunny,Low
+Bangalore,2021,610,Illegal Trade,No,85,Buffalo,Afternoon,Yes,Yes,Yes,No,Local Shelter,Urban,Cold,High
+Pune,2020,917,Experimentation,No,18,Goat,Afternoon,No,No,No,Yes,Local Shelter,Rural,Rainy,Low
+Mumbai,2021,26,Starvation,Yes,39,Elephant,Morning,No,No,Yes,No,No NGO Involved,Rural,Cold,Medium
+Pune,2022,362,Illegal Trade,No,77,Monkey,Evening,Yes,No,No,No,No NGO Involved,Urban,Sunny,Low
+Hyderabad,2020,534,Experimentation,Yes,19,Cat,Night,Yes,No,Yes,Yes,PETA,Urban,Cold,High
+Bangalore,2023,120,Abandonment,Yes,85,Monkey,Morning,Yes,Yes,No,No,PETA,Rural,Rainy,High
+Jaipur,2021,328,Illegal Trade,No,51,Dog,Evening,Yes,Yes,No,Yes,Blue Cross,Rural,Cold,High
+Jaipur,2021,315,Starvation,No,16,Horse,Morning,Yes,Yes,Yes,No,Wildlife SOS,Urban,Sunny,High
+Jaipur,2023,324,Illegal Trade,No,89,Horse,Afternoon,Yes,No,No,No,Local Shelter,Urban,Cold,Medium
+Jaipur,2021,605,Abandonment,Yes,20,Cow,Night,No,No,Yes,Yes,Blue Cross,Urban,Cold,Low
+Bangalore,2023,811,Beating,Yes,69,Monkey,Night,Yes,No,No,No,Local Shelter,Urban,Cold,Low
+Mumbai,2023,581,Poisoning,Yes,11,Snake,Afternoon,Yes,Yes,Yes,No,Blue Cross,Urban,Sunny,High
+Ahmedabad,2021,194,Neglect,No,61,Dog,Evening,Yes,No,Yes,Yes,Wildlife SOS,Urban,Cold,Low
+Chennai,2021,783,Starvation,Yes,45,Buffalo,Night,Yes,No,Yes,No,Blue Cross,Urban,Rainy,Low
+Chennai,2019,961,Starvation,No,49,Bird,Afternoon,No,Yes,Yes,No,No NGO Involved,Urban,Rainy,Low
+Hyderabad,2021,522,Dog Fighting,Yes,23,Bird,Afternoon,Yes,Yes,No,Yes,Local Shelter,Urban,Sunny,High
+Kolkata,2021,61,Experimentation,No,82,Horse,Afternoon,No,No,Yes,Yes,PETA,Urban,Cold,High
+Chennai,2020,945,Starvation,No,57,Horse,Afternoon,Yes,Yes,No,Yes,PETA,Rural,Rainy,Low
+Delhi,2022,711,Abandonment,Yes,39,Horse,Morning,Yes,Yes,Yes,Yes,No NGO Involved,Urban,Sunny,Medium
+Pune,2019,86,Illegal Trade,No,87,Elephant,Morning,Yes,Yes,Yes,No,No NGO Involved,Rural,Rainy,Low
+Jaipur,2020,231,Beating,No,13,Cow,Night,No,Yes,No,Yes,Wildlife SOS,Rural,Sunny,Medium
+Bangalore,2019,966,Experimentation,No,81,Bird,Evening,No,No,No,No,Blue Cross,Urban,Sunny,High
+Mumbai,2021,466,Beating,Yes,35,Buffalo,Evening,Yes,Yes,No,Yes,Wildlife SOS,Rural,Rainy,Low
+Kolkata,2020,364,Abandonment,Yes,38,Bird,Night,Yes,Yes,Yes,Yes,Wildlife SOS,Urban,Rainy,Medium
+Hyderabad,2019,691,Poisoning,Yes,81,Goat,Afternoon,No,Yes,No,No,Blue Cross,Urban,Rainy,High
+Delhi,2023,576,Starvation,No,68,Bird,Afternoon,No,Yes,No,No,PETA,Urban,Sunny,High
+Chennai,2021,680,Beating,No,40,Monkey,Afternoon,No,No,No,Yes,Wildlife SOS,Rural,Rainy,Low
+Mumbai,2023,766,Starvation,No,18,Goat,Morning,Yes,Yes,No,Yes,Blue Cross,Urban,Rainy,Low
+Kolkata,2019,839,Illegal Trade,No,48,Buffalo,Morning,No,No,No,Yes,Blue Cross,Rural,Sunny,Medium
+Pune,2020,362,Dog Fighting,No,74,Monkey,Afternoon,Yes,Yes,Yes,No,Blue Cross,Rural,Rainy,Low
+Bangalore,2021,696,Beating,Yes,36,Horse,Evening,Yes,No,Yes,No,Wildlife SOS,Urban,Cold,High
+Delhi,2020,848,Dog Fighting,Yes,74,Elephant,Afternoon,Yes,No,Yes,No,PETA,Urban,Rainy,Low
+Pune,2019,463,Experimentation,No,31,Horse,Night,No,No,No,No,Blue Cross,Rural,Rainy,Low
+Mumbai,2019,950,Poisoning,No,83,Buffalo,Afternoon,No,Yes,Yes,Yes,Wildlife SOS,Urban,Sunny,Low
+Bangalore,2019,185,Poisoning,No,40,Horse,Night,No,No,Yes,No,Blue Cross,Rural,Rainy,High
+Bangalore,2021,891,Abandonment,Yes,65,Cow,Night,No,No,No,Yes,Blue Cross,Urban,Cold,Low
+Pune,2023,954,Beating,No,73,Bird,Night,No,Yes,No,No,Local Shelter,Urban,Rainy,Low
+Hyderabad,2020,709,Experimentation,No,42,Cat,Evening,No,Yes,No,No,PETA,Rural,Cold,Low
+Bangalore,2019,138,Experimentation,No,65,Goat,Evening,Yes,No,Yes,No,Wildlife SOS,Urban,Cold,Low
+Delhi,2021,276,Beating,No,20,Snake,Evening,No,Yes,Yes,Yes,Blue Cross,Rural,Rainy,High
+Ahmedabad,2020,503,Poisoning,Yes,51,Elephant,Morning,Yes,No,No,No,PETA,Urban,Rainy,Medium
+Kolkata,2021,208,Starvation,Yes,26,Dog,Afternoon,Yes,No,Yes,Yes,Blue Cross,Rural,Rainy,High
+Ahmedabad,2019,856,Abandonment,No,23,Snake,Afternoon,No,No,No,Yes,PETA,Rural,Cold,Medium
+Ahmedabad,2023,107,Illegal Trade,No,57,Horse,Afternoon,Yes,Yes,No,No,No NGO Involved,Urban,Sunny,Low
+Jaipur,2019,195,Illegal Trade,No,21,Bird,Afternoon,Yes,No,Yes,No,Wildlife SOS,Rural,Rainy,Low
+Bangalore,2020,152,Starvation,Yes,62,Dog,Morning,No,No,Yes,Yes,Local Shelter,Rural,Sunny,Medium
+Kolkata,2020,771,Abandonment,No,75,Goat,Afternoon,No,Yes,Yes,No,Local Shelter,Urban,Cold,Low
+Ahmedabad,2023,387,Poisoning,Yes,45,Horse,Night,Yes,Yes,Yes,No,Blue Cross,Rural,Cold,Medium
+Mumbai,2022,678,Beating,No,43,Dog,Afternoon,Yes,No,No,Yes,PETA,Urban,Cold,High
+Chennai,2019,69,Dog Fighting,Yes,37,Buffalo,Afternoon,Yes,No,No,Yes,Blue Cross,Urban,Sunny,Low
+Lucknow,2020,642,Illegal Trade,No,44,Goat,Afternoon,Yes,No,Yes,No,Blue Cross,Rural,Rainy,Low
+Kolkata,2023,138,Illegal Trade,No,70,Horse,Night,Yes,Yes,No,Yes,PETA,Rural,Rainy,Low
+Delhi,2021,769,Experimentation,No,64,Dog,Afternoon,No,Yes,No,Yes,Wildlife SOS,Urban,Cold,Low
+Bangalore,2021,950,Experimentation,No,79,Horse,Afternoon,Yes,No,No,No,Local Shelter,Rural,Sunny,Medium
+Kolkata,2020,767,Dog Fighting,Yes,13,Elephant,Afternoon,No,Yes,Yes,No,Wildlife SOS,Urban,Sunny,High
+Kolkata,2023,90,Beating,No,41,Monkey,Morning,Yes,No,Yes,Yes,Wildlife SOS,Urban,Cold,Low
+Pune,2022,523,Dog Fighting,Yes,35,Goat,Afternoon,Yes,Yes,No,Yes,Blue Cross,Rural,Rainy,High
+Ahmedabad,2020,999,Starvation,No,77,Buffalo,Evening,Yes,Yes,No,No,Wildlife SOS,Rural,Rainy,High
+Bangalore,2020,676,Beating,Yes,60,Dog,Evening,No,No,Yes,No,Wildlife SOS,Rural,Sunny,Low
+Bangalore,2020,299,Beating,Yes,48,Monkey,Evening,No,No,Yes,Yes,Wildlife SOS,Urban,Rainy,High
+Ahmedabad,2022,342,Starvation,Yes,86,Cow,Morning,Yes,No,Yes,Yes,Blue Cross,Rural,Cold,Medium
+Jaipur,2021,703,Beating,No,35,Goat,Night,Yes,No,No,No,Blue Cross,Urban,Sunny,High
+Chennai,2020,304,Poisoning,No,13,Cat,Night,No,No,No,Yes,PETA,Rural,Sunny,Medium
+Chennai,2019,518,Dog Fighting,Yes,47,Buffalo,Morning,No,No,Yes,No,PETA,Urban,Sunny,Medium
+Lucknow,2019,978,Starvation,No,41,Bird,Evening,Yes,No,Yes,Yes,Local Shelter,Rural,Rainy,Medium
+Hyderabad,2023,242,Poisoning,No,49,Cow,Evening,Yes,Yes,Yes,No,Local Shelter,Urban,Cold,High
+Pune,2023,565,Poisoning,No,42,Buffalo,Morning,No,Yes,No,No,Wildlife SOS,Rural,Sunny,Medium
+Hyderabad,2022,358,Poisoning,Yes,12,Cow,Evening,Yes,No,No,No,Blue Cross,Rural,Cold,High
+Delhi,2020,610,Beating,Yes,19,Snake,Morning,No,Yes,Yes,Yes,No NGO Involved,Urban,Sunny,High
+Bangalore,2021,97,Experimentation,Yes,62,Goat,Morning,Yes,No,No,Yes,Blue Cross,Rural,Rainy,Medium
+Pune,2023,799,Abandonment,No,40,Cow,Afternoon,Yes,Yes,No,Yes,Wildlife SOS,Rural,Rainy,Low
+Pune,2023,935,Dog Fighting,No,29,Goat,Afternoon,No,No,No,Yes,Wildlife SOS,Urban,Rainy,Medium
+Delhi,2019,379,Starvation,Yes,62,Bird,Morning,No,Yes,Yes,Yes,Blue Cross,Rural,Rainy,High
+Hyderabad,2019,519,Neglect,Yes,71,Goat,Night,No,Yes,No,No,Blue Cross,Urban,Sunny,Medium
+Mumbai,2022,146,Starvation,No,40,Buffalo,Night,No,No,No,No,Wildlife SOS,Rural,Sunny,Low
+Chennai,2022,131,Neglect,Yes,64,Monkey,Morning,Yes,No,Yes,No,No NGO Involved,Rural,Sunny,Low
+Delhi,2019,564,Experimentation,Yes,17,Cat,Afternoon,No,No,Yes,Yes,No NGO Involved,Rural,Cold,High
+Bangalore,2020,610,Neglect,No,77,Cat,Afternoon,Yes,Yes,Yes,No,No NGO Involved,Urban,Sunny,High
+Pune,2020,598,Beating,No,66,Dog,Afternoon,Yes,Yes,No,Yes,No NGO Involved,Rural,Rainy,High
+Lucknow,2020,267,Illegal Trade,No,42,Buffalo,Afternoon,Yes,No,Yes,No,Blue Cross,Urban,Sunny,Medium
+Chennai,2021,509,Experimentation,No,12,Bird,Evening,No,No,No,Yes,PETA,Urban,Cold,Low
+Bangalore,2022,205,Neglect,No,15,Bird,Afternoon,Yes,Yes,Yes,Yes,Local Shelter,Urban,Cold,Low
+Pune,2021,728,Experimentation,Yes,85,Cow,Morning,No,Yes,No,Yes,Wildlife SOS,Rural,Rainy,High
+Mumbai,2021,189,Abandonment,Yes,35,Cow,Afternoon,Yes,Yes,No,Yes,Local Shelter,Urban,Cold,High
+Bangalore,2021,790,Poisoning,Yes,33,Horse,Afternoon,Yes,No,Yes,Yes,Wildlife SOS,Rural,Rainy,Low
+Delhi,2021,443,Neglect,No,47,Elephant,Morning,Yes,No,Yes,No,Blue Cross,Urban,Sunny,Low
+Ahmedabad,2021,770,Dog Fighting,No,71,Monkey,Afternoon,No,No,Yes,Yes,Local Shelter,Urban,Rainy,Medium
+Jaipur,2022,676,Starvation,No,85,Cat,Night,No,Yes,No,No,Wildlife SOS,Rural,Cold,Low
+Bangalore,2019,449,Beating,No,14,Monkey,Afternoon,Yes,Yes,No,Yes,Local Shelter,Rural,Sunny,Low
+Hyderabad,2019,50,Poisoning,Yes,40,Horse,Night,No,Yes,No,No,Local Shelter,Urban,Rainy,Low
+Bangalore,2020,171,Beating,Yes,63,Cow,Afternoon,No,Yes,No,No,Wildlife SOS,Rural,Sunny,High
+Pune,2023,614,Neglect,No,24,Bird,Night,Yes,No,No,Yes,Local Shelter,Rural,Rainy,High
+Pune,2020,685,Illegal Trade,Yes,49,Cat,Afternoon,No,Yes,Yes,Yes,Local Shelter,Rural,Cold,High
+Kolkata,2020,826,Poisoning,No,68,Goat,Night,Yes,No,No,No,Blue Cross,Urban,Rainy,Low
+Jaipur,2019,48,Starvation,Yes,31,Snake,Night,No,Yes,No,No,No NGO Involved,Urban,Rainy,Low
+Chennai,2019,408,Dog Fighting,No,59,Monkey,Afternoon,No,No,No,Yes,No NGO Involved,Rural,Cold,High
+Ahmedabad,2021,607,Neglect,No,18,Cow,Evening,Yes,Yes,Yes,No,No NGO Involved,Rural,Rainy,High
+Lucknow,2020,784,Dog Fighting,Yes,73,Cow,Night,Yes,Yes,Yes,No,Wildlife SOS,Urban,Rainy,Low
+Chennai,2019,455,Neglect,Yes,11,Elephant,Night,Yes,Yes,Yes,No,No NGO Involved,Urban,Rainy,Low
+Hyderabad,2019,71,Starvation,No,67,Horse,Night,Yes,Yes,No,No,Blue Cross,Urban,Cold,Medium
+Mumbai,2021,741,Beating,Yes,28,Monkey,Night,Yes,Yes,Yes,No,Wildlife SOS,Rural,Rainy,High
+Hyderabad,2021,405,Experimentation,Yes,35,Cat,Night,Yes,Yes,No,Yes,Local Shelter,Rural,Cold,High
+Kolkata,2022,591,Beating,Yes,62,Elephant,Evening,Yes,No,No,Yes,No NGO Involved,Rural,Rainy,High
+Pune,2021,849,Dog Fighting,No,87,Cow,Afternoon,No,Yes,No,No,Blue Cross,Urban,Cold,Medium
+Bangalore,2023,357,Starvation,Yes,90,Goat,Evening,No,No,No,No,Blue Cross,Urban,Cold,High
+Kolkata,2022,864,Beating,No,76,Horse,Afternoon,No,Yes,No,Yes,No NGO Involved,Urban,Rainy,Medium
+Jaipur,2022,647,Experimentation,No,60,Snake,Afternoon,Yes,Yes,No,Yes,Blue Cross,Rural,Cold,Medium
+Hyderabad,2019,379,Dog Fighting,Yes,47,Buffalo,Afternoon,No,Yes,No,No,Local Shelter,Rural,Cold,Medium
+Jaipur,2022,455,Experimentation,Yes,76,Bird,Afternoon,No,Yes,No,Yes,Blue Cross,Rural,Sunny,Medium
+Jaipur,2023,768,Abandonment,Yes,38,Bird,Morning,No,No,Yes,No,Local Shelter,Urban,Sunny,High
+Mumbai,2023,419,Beating,Yes,34,Goat,Evening,Yes,No,No,No,No NGO Involved,Rural,Sunny,Medium
+Mumbai,2019,284,Neglect,Yes,90,Snake,Afternoon,Yes,Yes,No,No,PETA,Urban,Cold,Medium
+Ahmedabad,2022,305,Illegal Trade,Yes,53,Buffalo,Evening,Yes,No,Yes,No,Blue Cross,Urban,Cold,Medium
+Jaipur,2021,286,Dog Fighting,Yes,50,Elephant,Afternoon,No,No,Yes,No,No NGO Involved,Urban,Sunny,Medium
+Bangalore,2021,370,Experimentation,Yes,23,Dog,Evening,Yes,No,No,No,Local Shelter,Rural,Cold,Medium
+Delhi,2019,628,Poisoning,Yes,16,Dog,Morning,No,No,No,Yes,No NGO Involved,Urban,Cold,Low
+Jaipur,2020,140,Experimentation,Yes,73,Cat,Night,Yes,No,No,No,No NGO Involved,Rural,Rainy,High
+Jaipur,2021,703,Neglect,No,15,Buffalo,Night,No,Yes,Yes,No,PETA,Rural,Rainy,High
+Ahmedabad,2023,554,Poisoning,No,21,Snake,Evening,Yes,No,Yes,No,PETA,Urban,Cold,Low
+Bangalore,2020,732,Abandonment,Yes,16,Dog,Afternoon,No,Yes,Yes,No,Local Shelter,Urban,Sunny,Low
+Bangalore,2019,101,Neglect,Yes,82,Horse,Evening,No,No,No,Yes,PETA,Urban,Rainy,Medium
+Kolkata,2020,886,Starvation,No,68,Monkey,Afternoon,No,Yes,No,Yes,Wildlife SOS,Urban,Sunny,Low
+Pune,2019,303,Poisoning,Yes,57,Horse,Afternoon,Yes,Yes,Yes,No,Blue Cross,Rural,Rainy,Medium
+Delhi,2020,202,Poisoning,Yes,33,Buffalo,Afternoon,Yes,No,No,Yes,Local Shelter,Rural,Sunny,High
+Kolkata,2022,541,Illegal Trade,No,29,Horse,Afternoon,Yes,No,Yes,No,Local Shelter,Urban,Sunny,Low
+Ahmedabad,2022,185,Starvation,No,63,Horse,Night,Yes,No,No,Yes,Local Shelter,Rural,Sunny,Medium
+Pune,2021,352,Starvation,No,13,Goat,Morning,No,Yes,Yes,No,No NGO Involved,Rural,Sunny,Low
+Jaipur,2021,436,Beating,Yes,45,Horse,Morning,No,No,Yes,No,PETA,Rural,Rainy,High
+Ahmedabad,2019,456,Dog Fighting,Yes,76,Goat,Evening,No,No,Yes,No,Blue Cross,Rural,Sunny,High
+Jaipur,2022,171,Dog Fighting,Yes,68,Horse,Morning,Yes,No,No,Yes,Wildlife SOS,Rural,Sunny,Medium
+Delhi,2019,440,Starvation,Yes,40,Goat,Evening,Yes,Yes,No,Yes,Blue Cross,Urban,Sunny,High
+Chennai,2022,787,Beating,Yes,54,Goat,Night,Yes,No,Yes,No,Wildlife SOS,Urban,Rainy,Medium
+Mumbai,2022,12,Illegal Trade,Yes,71,Cow,Afternoon,Yes,No,No,No,PETA,Rural,Cold,High
+Pune,2020,97,Abandonment,Yes,73,Elephant,Night,Yes,No,Yes,No,Wildlife SOS,Urban,Rainy,Low
+Kolkata,2019,105,Abandonment,Yes,46,Buffalo,Afternoon,No,No,No,No,Local Shelter,Rural,Sunny,High
+Chennai,2019,95,Illegal Trade,No,70,Goat,Morning,No,No,No,Yes,No NGO Involved,Urban,Cold,High
+Pune,2019,268,Poisoning,No,32,Goat,Afternoon,No,No,No,No,Blue Cross,Urban,Sunny,Low
+Mumbai,2023,366,Poisoning,Yes,15,Dog,Evening,Yes,No,Yes,Yes,No NGO Involved,Rural,Cold,Low
+Delhi,2021,823,Poisoning,No,79,Monkey,Evening,No,No,No,No,Wildlife SOS,Urban,Sunny,High
+Hyderabad,2019,251,Illegal Trade,Yes,68,Cow,Evening,Yes,Yes,No,No,No NGO Involved,Rural,Rainy,Low
+Bangalore,2022,309,Starvation,No,50,Snake,Evening,Yes,No,Yes,Yes,Local Shelter,Urban,Rainy,Low
+Mumbai,2020,667,Starvation,Yes,63,Elephant,Morning,Yes,No,Yes,Yes,Wildlife SOS,Rural,Sunny,Medium
+Hyderabad,2023,720,Abandonment,Yes,13,Goat,Evening,Yes,No,No,No,Local Shelter,Urban,Sunny,Low
+Ahmedabad,2021,90,Experimentation,No,20,Bird,Morning,No,No,Yes,No,PETA,Urban,Sunny,High
+Jaipur,2019,609,Poisoning,Yes,80,Snake,Morning,Yes,Yes,No,No,No NGO Involved,Urban,Rainy,Low
+Delhi,2023,346,Beating,Yes,35,Buffalo,Morning,Yes,No,Yes,Yes,PETA,Urban,Rainy,Medium
+Chennai,2019,43,Starvation,Yes,78,Cow,Night,No,Yes,Yes,No,Local Shelter,Urban,Sunny,High
+Mumbai,2019,627,Abandonment,No,90,Buffalo,Evening,No,Yes,Yes,Yes,Local Shelter,Rural,Sunny,Low
+Kolkata,2019,279,Illegal Trade,Yes,83,Monkey,Night,Yes,Yes,No,Yes,No NGO Involved,Urban,Sunny,Medium
+Hyderabad,2023,599,Starvation,No,25,Buffalo,Afternoon,Yes,No,No,No,Blue Cross,Urban,Rainy,Medium
+Hyderabad,2022,636,Poisoning,No,54,Horse,Night,No,Yes,No,Yes,Local Shelter,Rural,Sunny,High
+Lucknow,2021,743,Dog Fighting,No,26,Horse,Night,No,Yes,Yes,No,Local Shelter,Rural,Rainy,High
+Bangalore,2019,485,Beating,No,55,Horse,Morning,Yes,Yes,Yes,No,No NGO Involved,Urban,Cold,Low
+Pune,2021,996,Beating,Yes,25,Goat,Afternoon,Yes,Yes,Yes,No,Local Shelter,Urban,Sunny,Medium
+Pune,2021,304,Experimentation,Yes,61,Dog,Night,No,Yes,Yes,No,No NGO Involved,Rural,Cold,High
+Kolkata,2022,218,Neglect,No,77,Bird,Night,No,Yes,Yes,Yes,PETA,Rural,Cold,Medium
+Ahmedabad,2022,320,Dog Fighting,No,49,Bird,Afternoon,Yes,No,No,Yes,Local Shelter,Urban,Cold,Low
+Mumbai,2020,561,Experimentation,No,51,Cow,Morning,No,No,Yes,No,Blue Cross,Rural,Cold,High
+Mumbai,2023,774,Experimentation,Yes,45,Dog,Evening,Yes,Yes,Yes,Yes,PETA,Urban,Rainy,Low
+Mumbai,2019,375,Beating,Yes,51,Cat,Evening,No,Yes,Yes,No,Wildlife SOS,Rural,Sunny,Low
+Bangalore,2023,436,Beating,No,68,Snake,Night,Yes,Yes,No,Yes,Wildlife SOS,Rural,Sunny,Low
+Lucknow,2023,161,Illegal Trade,No,34,Cow,Afternoon,No,Yes,No,No,Blue Cross,Urban,Cold,Medium
+Kolkata,2022,64,Neglect,Yes,86,Bird,Evening,No,Yes,Yes,No,Wildlife SOS,Rural,Cold,Low
+Chennai,2022,77,Beating,No,40,Bird,Night,Yes,No,Yes,No,No NGO Involved,Rural,Rainy,Low
+Ahmedabad,2023,536,Experimentation,No,32,Horse,Afternoon,No,Yes,No,No,PETA,Rural,Sunny,High
+Kolkata,2022,763,Dog Fighting,No,81,Snake,Morning,Yes,Yes,Yes,No,PETA,Rural,Rainy,Medium
+Bangalore,2021,483,Poisoning,No,10,Buffalo,Evening,No,No,Yes,Yes,Local Shelter,Urban,Cold,Low
+Pune,2021,45,Dog Fighting,Yes,90,Cow,Afternoon,No,No,Yes,Yes,Wildlife SOS,Rural,Cold,Medium
+Mumbai,2022,334,Dog Fighting,No,43,Elephant,Night,Yes,No,Yes,Yes,Blue Cross,Rural,Rainy,Low
+Delhi,2020,753,Beating,No,30,Horse,Morning,No,No,Yes,No,Wildlife SOS,Urban,Cold,Low
+Pune,2020,751,Starvation,No,65,Cow,Evening,Yes,No,Yes,No,PETA,Rural,Cold,High
+Hyderabad,2022,221,Abandonment,Yes,21,Snake,Afternoon,Yes,No,Yes,Yes,No NGO Involved,Rural,Rainy,Medium
+Mumbai,2021,104,Neglect,Yes,68,Elephant,Evening,Yes,No,Yes,Yes,PETA,Urban,Cold,Low
+Pune,2022,584,Beating,No,19,Snake,Night,Yes,Yes,No,No,Blue Cross,Rural,Cold,Medium
+Chennai,2019,833,Illegal Trade,Yes,55,Dog,Afternoon,Yes,Yes,Yes,Yes,PETA,Urban,Sunny,High
+Hyderabad,2019,40,Abandonment,No,68,Cat,Night,Yes,Yes,Yes,Yes,Wildlife SOS,Urban,Sunny,Medium
+Bangalore,2023,698,Abandonment,Yes,57,Cow,Afternoon,No,No,No,No,Blue Cross,Urban,Sunny,Medium
+Chennai,2021,139,Beating,No,63,Elephant,Afternoon,Yes,No,Yes,Yes,Local Shelter,Rural,Rainy,Low
+Chennai,2022,626,Experimentation,No,38,Monkey,Morning,No,No,No,Yes,Wildlife SOS,Rural,Cold,Low
+Delhi,2022,593,Beating,No,53,Goat,Night,No,Yes,No,No,No NGO Involved,Rural,Sunny,Medium
+Ahmedabad,2022,751,Experimentation,Yes,76,Goat,Afternoon,No,Yes,Yes,No,PETA,Urban,Sunny,High
+Pune,2022,787,Starvation,No,70,Cat,Afternoon,No,No,Yes,Yes,Wildlife SOS,Rural,Sunny,Medium
+Jaipur,2022,589,Beating,Yes,57,Monkey,Evening,No,No,No,No,PETA,Urban,Cold,Low
+Hyderabad,2021,183,Beating,Yes,52,Buffalo,Morning,No,Yes,No,No,No NGO Involved,Rural,Sunny,High
+Lucknow,2020,955,Beating,No,77,Dog,Afternoon,Yes,No,No,Yes,Wildlife SOS,Urban,Rainy,Low
+Chennai,2023,570,Beating,Yes,21,Cow,Afternoon,No,No,Yes,No,Blue Cross,Rural,Rainy,Medium
+Ahmedabad,2021,204,Starvation,Yes,41,Cow,Afternoon,Yes,No,Yes,No,Wildlife SOS,Rural,Sunny,Medium
+Ahmedabad,2020,554,Abandonment,No,89,Cat,Afternoon,No,No,Yes,No,Wildlife SOS,Rural,Sunny,High
+Delhi,2020,788,Experimentation,No,82,Horse,Evening,No,Yes,No,No,Wildlife SOS,Rural,Rainy,Medium
+Pune,2021,217,Neglect,No,72,Goat,Morning,Yes,Yes,No,No,No NGO Involved,Rural,Cold,Low
+Ahmedabad,2022,42,Starvation,No,31,Dog,Morning,No,Yes,No,Yes,Blue Cross,Rural,Sunny,High
+Mumbai,2020,839,Abandonment,Yes,37,Dog,Morning,Yes,No,Yes,No,Wildlife SOS,Rural,Sunny,High
+Jaipur,2019,395,Starvation,No,79,Snake,Night,Yes,Yes,No,No,PETA,Rural,Sunny,Medium
+Kolkata,2022,800,Experimentation,No,80,Bird,Morning,No,No,Yes,No,Blue Cross,Rural,Rainy,Medium
+Ahmedabad,2023,168,Abandonment,Yes,30,Monkey,Night,Yes,Yes,No,Yes,Blue Cross,Urban,Rainy,Medium
+Mumbai,2020,107,Experimentation,No,14,Cow,Evening,No,No,No,No,PETA,Urban,Cold,Low
+Mumbai,2020,389,Neglect,Yes,33,Dog,Night,Yes,Yes,No,Yes,Wildlife SOS,Urban,Cold,Low
+Pune,2023,488,Beating,Yes,64,Elephant,Evening,Yes,Yes,Yes,Yes,Local Shelter,Rural,Sunny,High
+Ahmedabad,2019,131,Experimentation,Yes,81,Goat,Morning,Yes,No,No,No,No NGO Involved,Urban,Cold,High
+Lucknow,2023,422,Starvation,No,51,Snake,Afternoon,Yes,Yes,Yes,Yes,Wildlife SOS,Urban,Rainy,High
+Mumbai,2019,985,Illegal Trade,Yes,55,Bird,Morning,No,Yes,Yes,No,Wildlife SOS,Urban,Rainy,Low
+Pune,2019,920,Dog Fighting,No,31,Cat,Night,Yes,Yes,No,Yes,Local Shelter,Rural,Rainy,Medium
+Kolkata,2021,818,Experimentation,No,58,Snake,Night,Yes,No,Yes,No,Local Shelter,Rural,Rainy,High
+Chennai,2019,317,Beating,Yes,26,Dog,Afternoon,Yes,No,Yes,No,Wildlife SOS,Rural,Sunny,High
+Pune,2023,418,Illegal Trade,No,59,Horse,Afternoon,Yes,No,Yes,No,PETA,Urban,Cold,High
+Chennai,2020,632,Illegal Trade,No,49,Elephant,Afternoon,No,Yes,No,No,PETA,Urban,Sunny,Medium
+Mumbai,2020,134,Illegal Trade,No,50,Horse,Night,Yes,No,Yes,Yes,PETA,Rural,Rainy,High
+Lucknow,2023,834,Poisoning,Yes,22,Goat,Afternoon,No,Yes,Yes,No,Local Shelter,Rural,Sunny,Low
+Mumbai,2020,100,Abandonment,Yes,34,Snake,Afternoon,No,Yes,No,Yes,Blue Cross,Urban,Sunny,Medium
+Kolkata,2022,502,Experimentation,No,60,Cow,Night,Yes,Yes,Yes,Yes,PETA,Rural,Rainy,High
+Jaipur,2019,252,Starvation,No,64,Elephant,Night,No,Yes,No,Yes,No NGO Involved,Rural,Sunny,Low
+Kolkata,2020,996,Dog Fighting,Yes,40,Horse,Night,No,Yes,Yes,No,PETA,Urban,Rainy,Medium
+Lucknow,2021,327,Neglect,No,12,Horse,Evening,No,Yes,Yes,Yes,No NGO Involved,Rural,Sunny,Medium
+Delhi,2020,941,Experimentation,Yes,19,Goat,Night,No,Yes,No,Yes,Wildlife SOS,Urban,Cold,High
+Mumbai,2020,697,Dog Fighting,No,13,Horse,Night,No,Yes,Yes,Yes,Wildlife SOS,Rural,Cold,High
+Ahmedabad,2022,616,Poisoning,Yes,73,Cat,Morning,No,No,Yes,No,Blue Cross,Urban,Sunny,Medium
+Lucknow,2020,573,Illegal Trade,No,88,Elephant,Night,Yes,No,No,Yes,Local Shelter,Rural,Cold,Low
+Pune,2020,732,Beating,Yes,19,Cow,Afternoon,No,No,No,No,No NGO Involved,Rural,Rainy,Low
+Lucknow,2023,792,Experimentation,No,35,Cat,Evening,No,Yes,No,Yes,Local Shelter,Rural,Cold,Medium
+Pune,2021,968,Starvation,No,81,Buffalo,Night,No,No,Yes,No,Local Shelter,Rural,Rainy,Low
+Pune,2021,126,Dog Fighting,Yes,63,Snake,Morning,No,No,Yes,Yes,Wildlife SOS,Rural,Rainy,High
+Kolkata,2021,21,Beating,No,56,Cow,Night,Yes,Yes,Yes,No,Blue Cross,Urban,Cold,High
+Kolkata,2019,748,Dog Fighting,No,74,Bird,Evening,No,Yes,No,Yes,Wildlife SOS,Rural,Sunny,Medium
+Jaipur,2019,736,Poisoning,Yes,42,Monkey,Afternoon,Yes,No,No,Yes,No NGO Involved,Urban,Cold,Low
+Lucknow,2019,49,Illegal Trade,No,59,Elephant,Night,No,No,No,No,PETA,Urban,Cold,Medium
+Chennai,2021,728,Dog Fighting,Yes,89,Horse,Afternoon,No,Yes,Yes,No,Local Shelter,Urban,Sunny,Low
+Bangalore,2021,272,Illegal Trade,Yes,88,Bird,Night,Yes,No,Yes,Yes,PETA,Rural,Sunny,Low
+Jaipur,2021,768,Experimentation,No,37,Elephant,Evening,Yes,No,No,Yes,No NGO Involved,Rural,Rainy,Medium
+Bangalore,2020,788,Starvation,No,30,Dog,Evening,Yes,No,Yes,No,Blue Cross,Urban,Cold,Medium
+Kolkata,2020,48,Dog Fighting,No,72,Cat,Afternoon,Yes,No,No,No,Local Shelter,Urban,Cold,Medium
+Jaipur,2023,611,Experimentation,Yes,77,Bird,Evening,No,No,No,No,PETA,Rural,Sunny,Medium
+Kolkata,2019,984,Poisoning,Yes,88,Bird,Morning,Yes,Yes,No,No,PETA,Rural,Sunny,Medium
+Kolkata,2020,644,Neglect,Yes,58,Buffalo,Morning,Yes,No,Yes,Yes,Wildlife SOS,Rural,Sunny,Low
+Delhi,2019,161,Experimentation,Yes,19,Elephant,Evening,No,No,Yes,Yes,Local Shelter,Rural,Rainy,Medium
+Bangalore,2019,130,Neglect,No,28,Dog,Morning,Yes,No,Yes,No,No NGO Involved,Urban,Sunny,Medium
+Mumbai,2023,599,Abandonment,Yes,74,Dog,Evening,No,No,Yes,No,PETA,Rural,Rainy,Medium
+Mumbai,2021,295,Neglect,Yes,62,Dog,Morning,No,Yes,Yes,Yes,No NGO Involved,Urban,Cold,Medium
+Chennai,2020,576,Neglect,No,35,Goat,Morning,Yes,Yes,Yes,No,Blue Cross,Urban,Cold,Low
+Lucknow,2023,955,Abandonment,Yes,33,Snake,Night,Yes,Yes,Yes,Yes,Blue Cross,Rural,Rainy,High
+Hyderabad,2022,478,Illegal Trade,Yes,32,Elephant,Evening,No,Yes,No,Yes,Wildlife SOS,Urban,Rainy,Medium
+Delhi,2023,110,Neglect,Yes,14,Bird,Evening,Yes,Yes,Yes,Yes,Blue Cross,Urban,Cold,High
+Kolkata,2022,492,Poisoning,Yes,45,Horse,Night,Yes,Yes,Yes,Yes,PETA,Rural,Sunny,Medium
+Jaipur,2020,375,Poisoning,No,28,Goat,Evening,Yes,Yes,Yes,Yes,No NGO Involved,Rural,Cold,High
+Delhi,2021,300,Abandonment,Yes,14,Monkey,Morning,Yes,Yes,Yes,No,Local Shelter,Urban,Sunny,High
+Pune,2023,400,Beating,No,43,Cow,Morning,Yes,No,Yes,No,Local Shelter,Urban,Rainy,Low
+Chennai,2021,831,Illegal Trade,Yes,37,Snake,Evening,No,Yes,No,Yes,Local Shelter,Rural,Cold,Medium
+Delhi,2023,691,Starvation,Yes,34,Snake,Morning,Yes,No,Yes,No,PETA,Urban,Rainy,Low
+Lucknow,2019,572,Experimentation,No,10,Goat,Morning,Yes,No,No,Yes,Local Shelter,Rural,Sunny,Medium
+Pune,2019,802,Dog Fighting,No,16,Elephant,Morning,Yes,No,No,No,Blue Cross,Rural,Rainy,Medium
+Bangalore,2022,862,Starvation,Yes,73,Elephant,Night,No,No,Yes,No,No NGO Involved,Rural,Rainy,Medium
+Hyderabad,2022,895,Neglect,No,48,Buffalo,Evening,Yes,No,Yes,Yes,Wildlife SOS,Rural,Sunny,High
+Pune,2019,65,Poisoning,No,10,Monkey,Night,No,Yes,Yes,No,Wildlife SOS,Urban,Cold,High
+Pune,2020,210,Dog Fighting,Yes,64,Snake,Evening,Yes,Yes,Yes,No,Local Shelter,Rural,Sunny,High
+Hyderabad,2019,102,Experimentation,No,63,Bird,Afternoon,Yes,No,No,Yes,No NGO Involved,Urban,Sunny,Low
+Delhi,2022,909,Beating,Yes,59,Goat,Night,Yes,No,No,No,PETA,Urban,Sunny,Low
+Chennai,2021,423,Illegal Trade,Yes,59,Dog,Night,No,Yes,Yes,Yes,Local Shelter,Rural,Rainy,High
+Ahmedabad,2019,377,Poisoning,Yes,71,Cat,Afternoon,No,Yes,No,No,Blue Cross,Urban,Sunny,Low
+Pune,2019,982,Starvation,No,69,Cow,Morning,No,No,Yes,Yes,No NGO Involved,Rural,Cold,High
+Ahmedabad,2019,278,Neglect,No,75,Cow,Afternoon,Yes,Yes,Yes,No,No NGO Involved,Rural,Sunny,High
+Pune,2022,753,Neglect,No,31,Bird,Evening,Yes,Yes,Yes,Yes,No NGO Involved,Urban,Sunny,High
+Pune,2023,171,Abandonment,Yes,81,Snake,Morning,Yes,No,Yes,Yes,PETA,Urban,Sunny,Medium
+Mumbai,2022,854,Illegal Trade,No,28,Monkey,Morning,Yes,No,No,Yes,Blue Cross,Urban,Cold,High
+Pune,2019,639,Poisoning,No,76,Buffalo,Morning,Yes,No,Yes,Yes,PETA,Urban,Rainy,Low
+Pune,2019,147,Abandonment,No,17,Goat,Afternoon,No,No,Yes,No,Local Shelter,Rural,Rainy,Low
+Pune,2020,938,Beating,No,61,Elephant,Evening,No,No,Yes,No,No NGO Involved,Urban,Cold,High
+Hyderabad,2022,644,Abandonment,Yes,25,Horse,Evening,No,No,Yes,Yes,No NGO Involved,Rural,Cold,Medium
+Kolkata,2020,280,Neglect,Yes,11,Dog,Evening,Yes,Yes,Yes,No,Local Shelter,Rural,Sunny,Low
+Hyderabad,2023,305,Neglect,Yes,14,Goat,Night,No,No,No,Yes,Wildlife SOS,Urban,Cold,Medium
+Lucknow,2022,187,Illegal Trade,Yes,10,Dog,Night,No,No,No,Yes,No NGO Involved,Urban,Sunny,Medium
+Pune,2021,12,Neglect,Yes,67,Monkey,Morning,No,No,Yes,Yes,Local Shelter,Urban,Cold,High
+Kolkata,2023,454,Illegal Trade,Yes,18,Horse,Evening,Yes,Yes,Yes,No,Blue Cross,Urban,Sunny,High
+Hyderabad,2021,860,Experimentation,No,31,Dog,Morning,No,Yes,Yes,Yes,Local Shelter,Rural,Sunny,Low
+Ahmedabad,2021,671,Starvation,No,44,Bird,Evening,No,Yes,Yes,No,Local Shelter,Rural,Cold,High
+Kolkata,2020,106,Abandonment,Yes,43,Snake,Evening,No,No,Yes,No,Local Shelter,Rural,Cold,Medium
+Lucknow,2023,938,Dog Fighting,Yes,42,Cow,Morning,No,No,Yes,Yes,Wildlife SOS,Rural,Sunny,Medium
+Bangalore,2020,550,Starvation,No,64,Dog,Evening,No,Yes,Yes,No,Local Shelter,Urban,Sunny,High
+Hyderabad,2021,613,Neglect,No,87,Dog,Evening,Yes,Yes,Yes,No,Blue Cross,Rural,Rainy,High
+Hyderabad,2022,895,Neglect,No,15,Bird,Afternoon,Yes,No,Yes,Yes,PETA,Urban,Cold,Medium
+Kolkata,2020,686,Experimentation,No,66,Cow,Evening,No,No,Yes,Yes,Wildlife SOS,Rural,Sunny,Low
+Lucknow,2023,551,Illegal Trade,No,90,Buffalo,Evening,Yes,Yes,Yes,No,Wildlife SOS,Urban,Rainy,High
+Chennai,2020,882,Beating,No,55,Cow,Night,Yes,Yes,No,No,Local Shelter,Rural,Sunny,High
+Hyderabad,2019,459,Poisoning,No,88,Goat,Morning,No,No,Yes,No,Wildlife SOS,Urban,Rainy,High
+Pune,2023,921,Starvation,Yes,57,Cow,Morning,Yes,Yes,No,Yes,PETA,Rural,Sunny,Low
+Jaipur,2020,776,Illegal Trade,Yes,14,Goat,Evening,Yes,No,Yes,No,Local Shelter,Urban,Rainy,High
+Delhi,2019,105,Beating,No,54,Goat,Morning,Yes,No,No,No,Wildlife SOS,Urban,Cold,Medium
+Jaipur,2020,316,Experimentation,No,74,Cow,Night,No,No,No,No,Wildlife SOS,Urban,Rainy,Low
+Jaipur,2020,644,Poisoning,Yes,77,Goat,Morning,Yes,Yes,No,Yes,No NGO Involved,Urban,Cold,High
+Bangalore,2020,45,Starvation,No,28,Monkey,Morning,No,Yes,No,Yes,No NGO Involved,Urban,Cold,High
+Delhi,2021,877,Illegal Trade,No,84,Cat,Evening,No,No,No,Yes,No NGO Involved,Urban,Sunny,Medium
+Ahmedabad,2023,89,Neglect,Yes,64,Buffalo,Afternoon,Yes,No,Yes,No,No NGO Involved,Rural,Rainy,Low
+Mumbai,2020,861,Abandonment,No,36,Cat,Afternoon,Yes,No,No,No,No NGO Involved,Urban,Cold,High
+Ahmedabad,2020,255,Poisoning,No,90,Cat,Evening,Yes,Yes,No,No,No NGO Involved,Urban,Cold,High
+Chennai,2020,571,Neglect,No,23,Horse,Afternoon,No,Yes,Yes,Yes,Wildlife SOS,Rural,Sunny,Medium
+Pune,2020,553,Beating,No,62,Elephant,Night,Yes,Yes,No,No,Blue Cross,Rural,Cold,High
+Delhi,2022,493,Abandonment,No,16,Buffalo,Morning,Yes,No,No,Yes,Wildlife SOS,Urban,Sunny,High
+Chennai,2023,655,Illegal Trade,No,69,Cat,Night,Yes,No,Yes,Yes,Local Shelter,Rural,Sunny,Medium
+Delhi,2021,470,Neglect,No,49,Dog,Night,Yes,Yes,Yes,Yes,PETA,Rural,Sunny,High
+Bangalore,2023,637,Illegal Trade,No,83,Cat,Evening,Yes,No,Yes,Yes,No NGO Involved,Rural,Cold,High
+Jaipur,2022,718,Beating,No,79,Elephant,Morning,Yes,No,Yes,Yes,Blue Cross,Urban,Sunny,Medium
+Pune,2020,698,Illegal Trade,No,62,Bird,Evening,Yes,No,No,Yes,Wildlife SOS,Urban,Cold,High
+Bangalore,2019,584,Experimentation,No,67,Horse,Afternoon,No,No,Yes,Yes,Blue Cross,Urban,Sunny,Medium
+Hyderabad,2019,173,Illegal Trade,Yes,54,Elephant,Evening,No,No,No,Yes,Blue Cross,Urban,Cold,Low
+Bangalore,2021,345,Neglect,No,61,Elephant,Morning,No,Yes,Yes,No,PETA,Rural,Rainy,High
+Kolkata,2023,396,Abandonment,Yes,47,Cat,Morning,Yes,No,Yes,Yes,PETA,Urban,Rainy,High
+Ahmedabad,2019,243,Starvation,Yes,26,Elephant,Evening,Yes,No,Yes,No,Blue Cross,Rural,Cold,Low
+Jaipur,2019,280,Beating,No,10,Elephant,Evening,Yes,Yes,Yes,Yes,Blue Cross,Rural,Cold,Medium
+Bangalore,2022,483,Dog Fighting,Yes,79,Buffalo,Night,Yes,No,No,Yes,Blue Cross,Rural,Rainy,Medium
+Chennai,2023,226,Abandonment,No,70,Dog,Morning,Yes,No,Yes,Yes,Local Shelter,Rural,Rainy,Low
+Ahmedabad,2023,475,Illegal Trade,Yes,77,Snake,Morning,No,Yes,No,No,PETA,Urban,Sunny,Low
+Delhi,2023,309,Experimentation,No,10,Dog,Night,Yes,Yes,Yes,No,Local Shelter,Rural,Rainy,Medium
+Mumbai,2022,593,Neglect,No,82,Cat,Morning,No,Yes,Yes,No,PETA,Rural,Rainy,Low
+Mumbai,2023,626,Neglect,Yes,50,Elephant,Night,No,No,No,No,PETA,Rural,Rainy,Low
+Delhi,2022,459,Abandonment,No,11,Buffalo,Night,Yes,Yes,No,No,Blue Cross,Urban,Cold,Low
+Hyderabad,2021,852,Poisoning,Yes,41,Bird,Afternoon,Yes,Yes,No,Yes,PETA,Urban,Cold,Medium
+Bangalore,2023,970,Neglect,Yes,22,Bird,Morning,No,Yes,No,No,Wildlife SOS,Urban,Cold,High
+Pune,2021,307,Dog Fighting,Yes,11,Bird,Morning,Yes,Yes,No,Yes,Blue Cross,Urban,Sunny,Medium
+Kolkata,2020,737,Abandonment,No,39,Cow,Night,Yes,No,Yes,No,No NGO Involved,Urban,Cold,Medium
+Kolkata,2019,773,Abandonment,Yes,33,Buffalo,Morning,No,Yes,Yes,No,PETA,Rural,Sunny,Low
+Jaipur,2020,446,Abandonment,No,82,Cat,Night,Yes,No,Yes,Yes,Wildlife SOS,Rural,Sunny,High
+Lucknow,2021,434,Neglect,Yes,11,Buffalo,Evening,No,No,Yes,No,Blue Cross,Urban,Sunny,Medium
+Bangalore,2022,837,Dog Fighting,Yes,16,Monkey,Afternoon,No,Yes,No,No,No NGO Involved,Urban,Sunny,High
+Ahmedabad,2021,128,Neglect,No,80,Bird,Evening,Yes,Yes,No,No,No NGO Involved,Rural,Sunny,Low
+Chennai,2020,183,Poisoning,Yes,58,Bird,Morning,No,Yes,No,No,Blue Cross,Urban,Cold,Low
+Hyderabad,2023,22,Abandonment,Yes,78,Horse,Morning,No,No,Yes,No,Local Shelter,Rural,Cold,High
+Chennai,2022,291,Abandonment,Yes,61,Snake,Afternoon,Yes,Yes,Yes,No,Wildlife SOS,Urban,Sunny,Medium
+Bangalore,2023,981,Dog Fighting,No,47,Buffalo,Morning,No,Yes,Yes,No,No NGO Involved,Rural,Sunny,Medium
+Jaipur,2020,895,Neglect,Yes,22,Bird,Night,No,Yes,Yes,Yes,PETA,Rural,Sunny,High
+Chennai,2023,600,Poisoning,No,83,Bird,Evening,Yes,No,Yes,Yes,Local Shelter,Urban,Rainy,High
+Hyderabad,2022,513,Poisoning,Yes,30,Elephant,Evening,No,Yes,No,Yes,Local Shelter,Urban,Sunny,Medium
+Bangalore,2022,90,Experimentation,Yes,82,Monkey,Morning,Yes,Yes,No,No,Blue Cross,Rural,Sunny,High
+Lucknow,2021,10,Neglect,No,70,Buffalo,Morning,No,No,No,Yes,No NGO Involved,Urban,Rainy,Low
+Ahmedabad,2022,789,Experimentation,Yes,24,Goat,Morning,Yes,No,Yes,No,Local Shelter,Rural,Rainy,Medium
+Pune,2021,95,Experimentation,No,68,Goat,Afternoon,Yes,No,No,No,PETA,Urban,Cold,Low
+Pune,2020,853,Abandonment,No,50,Buffalo,Afternoon,Yes,Yes,No,Yes,PETA,Rural,Cold,Medium
+Mumbai,2021,235,Dog Fighting,Yes,13,Bird,Afternoon,No,No,No,Yes,PETA,Rural,Cold,Medium
+Pune,2023,400,Poisoning,Yes,88,Cat,Afternoon,No,No,Yes,No,Wildlife SOS,Urban,Rainy,Medium
+Kolkata,2019,951,Starvation,Yes,72,Elephant,Morning,Yes,Yes,Yes,No,Wildlife SOS,Rural,Sunny,Medium
